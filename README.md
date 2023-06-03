@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patron98
 - 👀 I’m interested in crypto and Programming
-- 🌱 I’m currently learning Java
+- 🌱 Test Engineer
 
 <!---
 patron98/patron98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
